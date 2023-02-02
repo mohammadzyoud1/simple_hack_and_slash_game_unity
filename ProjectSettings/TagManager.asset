@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wapon sword
+  - enemy
+  - enemy_axe_left
+  - enemy_axe_right
+  - player_shield
+  - sound_walk
+  - sword_attack_sound
+  - axe_sound
+  - anime_walk_sound
+  - FxTemporaire
+  - enemy_death_effect
+  - player_death_effect
+  - player_health_reduce
+  - player_sword_effect
+  - coin
+  - coin_sound
+  - mid_kit
+  - health_increase_effect
+  - shield_effect
+  - player_dead
+  - enemy_dead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - buildings
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
